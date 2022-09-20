@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="100vw" src="banner.png">
+ <img align="center" alt="Coding" width="700" src="banner.png">
 
 
 
