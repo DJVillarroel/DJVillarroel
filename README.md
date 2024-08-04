@@ -7,7 +7,7 @@ Student and Esports shout-caster, you'll see something interesting here when I l
 
 
 - 👋 Hi, I’m @DJVillarroel
-- 👀 I’m interested in Pame<3
+- 👀 I’m interested in Getting an IT job
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thedjv123@gmail.com
