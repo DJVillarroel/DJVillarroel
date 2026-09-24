@@ -1,7 +1,3 @@
- <img align="center" alt="Coding" width="700" src="banner.png">
-
-
-
 Student and Esports shout-caster, you'll see something interesting here when I learn how to use my tools. 3 years or 10, wait for it.
 
 
